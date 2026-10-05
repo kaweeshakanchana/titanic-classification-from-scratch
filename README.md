@@ -28,8 +28,8 @@ Core algorithms are implemented **from scratch with NumPy only**, then compared 
 | AdaBoost, stumps (scratch) | 0.799 | 0.795 |
 | Gradient Boosting (sklearn) | 0.782 | 0.799 |
 
-![Test ROC-AUC of all models](figs/comparison_auc.png)
-![Regularisation paths](figs/B_regularisation_path.png)
+![Test ROC-AUC of all models](comparison_auc.png)
+![Regularisation paths](B_regularisation_path.png)
 
 ## How to run
 
